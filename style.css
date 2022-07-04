@@ -1,0 +1,30 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    }
+    
+    body{
+    background: url(./assets/teddy\ bear.jpg);
+    background-size: cover;
+    }
+    
+    .container{
+    background: rgb(207, 180, 207);
+    opacity: 0.5;
+    border-radius: 20px;
+    margin-left: 5vh;
+    margin-top: 7vh;
+    width: 100vw;
+    height: 150vh;
+    text-align: center;
+    }
+    #textBox1{
+    width: 20vw;
+    height: 15vh;
+    }
+    #textBox3{
+    width: 20vw;
+    height: 15vh;
+    
+    }
